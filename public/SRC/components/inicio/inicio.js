@@ -1,4 +1,4 @@
-import { app } from '../../data/data'
+import { app, placa } from '../../data/data'
 import './inicio.css'
 
 export const inicio = () => {
@@ -7,20 +7,20 @@ export const inicio = () => {
   const section = document.createElement('section')
   section.className = 'section-inicio'
   const uno = document.createElement('h2')
-  uno.textContent = `Un placer verte por aquí`
+  uno.textContent = `Un placer verte por aquí,  ${placa.Nombre}`
   uno.className = 'subtitulo'
   app.style.padding = '0'
 
   const dos = document.createElement('h1')
   dos.className = 'titulo'
   dos.textContent =
-    'Eres una persona afortunada por formar parte de esta investigación'
+    'Eres una persona afortunada por formar parte de esta investigación.'
 
   const tres = document.createElement('h3')
   tres.className = 'texto'
   tres.innerHTML = `  <p class="texto">La cuestión es simple. Después de tantos años infiltrado en el barrio la investigación no da más de sí. </p>
   <br>
-  <p  class="texto">En todos los barrios han llegado a descubrir quién era el policía infiltrado dentro del movimiento. Por diversas cuestiones que no entraremos a valorar en este informe, aquí no ha sido posible. El aparato de inteligencia y contrainformación carabanchelera deja bastante que desear. Igualmente, la opacidad con la que se trata la información en el grupúsculo hace imposible tener claro cuales van a ser los próximos pasos que llevará a cabo esta organización. </p>
+  <p  class="texto">En todos los barrios han llegado a descubrir quién era el policía infiltrado dentro del movimiento. Por diversas cuestiones que no entraremos a valorar en este informe, en Carabanchel no han sido capaces.Pero, si bien es cierto que esta incapacidad del aparato de inteligencia y contrainformación carabanchelera deja bastante que desear, la opacidad con la que se trata la información en el grupúsculo hace imposible tener claro cuales van a ser los próximos pasos que llevarán a cabo. </p>
   <br>
   <p class="Text"><span> Sabemos que se está tramando una gran acción por parte del núcleo duro. Sin embargo, es imposible a estar alturas cuantificar los posibles daños que derivarán ni el lugar, fecha u objetivo del mismo. </span></p>
   <br>

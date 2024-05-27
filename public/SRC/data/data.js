@@ -8,6 +8,8 @@ export const listadoHeader = [
   { nombre: 'Investigación', funcion: investigacion }
 ]
 
+export const placa = { Nombre: '', placa: 0 }
+
 export const app = document.querySelector('#app')
 export const participantes = [
   {
@@ -168,7 +170,7 @@ export const participantes = [
     Rol: 'Protegerte de que no te entren virus cuando pinchas en páginas raras. ',
     ideologia: 'Aceleracionista soviético.',
     aliados:
-      'Los marroquís de Guadarrama. No será reprimido en el Al-Andalus II',
+      'Los marroquís de Guadarrama. No será reprimido en el Al-Andalus II.',
     enemigos: 'La gente que no se lo pasa bien. ',
     habilidades: 'Conocimientos absurdamente amplios de música. ',
     fotos: [

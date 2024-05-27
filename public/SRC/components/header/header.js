@@ -2,6 +2,8 @@ import { app, listadoHeader } from '../../data/data'
 import './header.css'
 
 export const header = () => {
+  app.style.backgroundImage =
+    'url(https://i.ibb.co/5jHRsfx/856bd2c4-5778-42bb-a5fa-00704effb760-16-9-discover-aspect-ratio-default-0.png)'
   const header = document.createElement('header')
   header.id = 'main-header'
   const logo = document.createElement('img')
