@@ -44,7 +44,8 @@ export const participantes = [
       'https://i.ibb.co/kQS5jY1/CAMPI1.jpg',
       'https://i.ibb.co/P1tGnzZ/CAMPI2.jpg',
       'https://i.ibb.co/VQDW2Tj/CAMPI3.jpg',
-      'https://i.ibb.co/9N571Cx/CAMPI4.jpg'
+      'https://i.ibb.co/9N571Cx/CAMPI4.jpg',
+      'https://i.ibb.co/9nwRyHm/CAMPI5.jpg'
     ]
   },
   {
