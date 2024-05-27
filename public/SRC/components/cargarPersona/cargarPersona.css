@@ -1,0 +1,11 @@
+.container {
+  background-image: url('./assets/PERFIL/mapa.png');
+  height: 70svh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.div-select {
+  padding: 20px 0px;
+}

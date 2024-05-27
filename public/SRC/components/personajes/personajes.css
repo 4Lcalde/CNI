@@ -1,0 +1,217 @@
+#app {
+  padding: 20px;
+}
+.toggle {
+  display: none;
+}
+
+.container {
+  padding: 20px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-evenly;
+  max-width: 2200px;
+  margin: auto;
+}
+
+.div-select {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.div-info {
+  width: 30%;
+  min-width: 300px;
+  min-height: 507px;
+  display: flex;
+  flex-direction: column;
+  height: 70svh;
+  justify-content: center;
+  gap: 20px;
+}
+
+.img-container {
+  width: 150px;
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+}
+
+.perfil {
+  width: 100%;
+  min-width: 150px;
+
+  border: 6px ridge #000000;
+}
+
+.div-datos > p > span {
+  color: black;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.div-datos > p > span {
+  text-transform: capitalize;
+}
+
+.div-img {
+  display: flex;
+
+  width: 100%;
+  min-width: 150px;
+  max-width: 150px;
+  max-height: 200px;
+}
+
+.foto {
+  width: 150px;
+  filter: grayscale(1);
+  transition: all 0.5s;
+}
+.foto:hover {
+  z-index: 1;
+  transform: rotate(0);
+  transform: scale(1.2);
+}
+
+.div-fotos {
+  width: 65%;
+  position: RELATIVE;
+  max-width: 750px;
+  /* max-height: 550px; */
+
+  height: 70svh;
+}
+
+.foto1 {
+  position: absolute;
+  transform: rotate(-20deg);
+  right: 55%;
+  top: 15%;
+}
+.foto2 {
+  position: absolute;
+  transform: rotate(20deg);
+  right: 55%;
+  top: 35%;
+}
+.foto3 {
+  position: absolute;
+  transform: rotate(-20deg);
+  right: 40%;
+  top: 25%;
+}
+.foto4 {
+  position: absolute;
+  transform: rotate(40deg);
+  left: 40%;
+  top: 55%;
+}
+.foto5 {
+  position: absolute;
+  transform: rotate(30deg);
+  right: 15%;
+  top: 15%;
+}
+.foto6 {
+  position: absolute;
+  transform: rotate(-30deg);
+  right: 25%;
+  top: 55%;
+}
+.foto7 {
+  position: absolute;
+  transform: rotate(30deg);
+  right: 25%;
+  top: 20%;
+}
+.foto8 {
+  position: absolute;
+  transform: rotate(90deg);
+  right: 35%;
+  top: 5%;
+}
+
+.foto9 {
+  position: absolute;
+  transform: rotate(-60deg);
+  right: 15%;
+  top: 35%;
+}
+@media (max-width: 955px) {
+  .div-info {
+    align-items: center;
+  }
+}
+
+@media (max-width: 560px) {
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
+  .toggle {
+    display: flex;
+  }
+  .nav {
+    position: absolute;
+    background-color: red;
+    left: 0;
+    top: 80px;
+  }
+  .nav ul {
+    display: block;
+  }
+  .nav ul li {
+    display: flex;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .div-fotos {
+    width: 80%;
+  }
+  .foto {
+    width: 100px;
+  }
+  .foto1 {
+    left: 15%;
+    top: 60%;
+  }
+  .foto2 {
+    left: 45%;
+    top: 55%;
+  }
+  .foto3 {
+    left: 70%;
+    top: 35%;
+  }
+  .foto4 {
+    left: 40%;
+    top: 30%;
+  }
+  .foto5 {
+    left: 5%;
+    top: 25%;
+  }
+  .foto6 {
+    left: 10%;
+    top: 10%;
+  }
+  .foto7 {
+    left: 8%;
+    top: 35%;
+  }
+  .foto8 {
+    left: 60%;
+    top: 15%;
+    transform: rotate(-30deg);
+  }
+
+  .foto9 {
+    left: 0;
+    top: 0;
+  }
+}

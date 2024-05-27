@@ -1,0 +1,24 @@
+.section-inicio {
+  text-align: justify;
+
+  backdrop-filter: blur(10px);
+  position: absolute;
+  height: 100%;
+  padding: 20px;
+}
+
+.titulo {
+  text-align: center;
+
+  padding-bottom: 20px;
+}
+
+.subtitulo {
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: 25px;
+}
+
+.texto > span {
+  color: black;
+}
