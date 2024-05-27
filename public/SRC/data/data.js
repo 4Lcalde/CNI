@@ -37,8 +37,9 @@ export const participantes = [
     Rol: 'Difusión interna de información.',
     ideologia: 'Autogestión y organización llionesa.',
     aliados: 'aliados',
-    enemigos: 'La ausencia de sonido. Las pantas',
-    habilidades: 'Ser duro como un minero.',
+    enemigos: 'La ausencia de sonido. Las plantas.',
+    habilidades:
+      'Ser duro como un minero y aparecer siempre que se le necesita.',
     fotos: [
       'https://i.ibb.co/kQS5jY1/CAMPI1.jpg',
       'https://i.ibb.co/P1tGnzZ/CAMPI2.jpg',
@@ -107,12 +108,12 @@ export const participantes = [
   {
     nombre: 'Héctor',
     fotoPerfil: 'https://i.ibb.co/qJ68qGH/H-ctor.jpg',
-    alias: 'El buko',
-    Rol: 'Líder horizontal de Karaduras',
+    alias: 'El buko.',
+    Rol: 'Líder horizontal de Karaduras.',
     ideologia: 'Marxismo-leninismo-flokismo',
-    aliados: 'Los gitanos y yonkis del cara. El glorioso camarada Stalin',
-    enemigos: 'Floki. Si no está 100% satisfecho castiga a Héctor sin salir',
-    habilidades: 'Crear elementos de mediación y gestión de conflictos',
+    aliados: 'Los gitanos y yonkis del cara. El glorioso camarada Stalin.',
+    enemigos: 'Floki. Si no está 100% satisfecho castiga a Héctor sin salir.',
+    habilidades: 'Crear elementos de mediación y gestión de conflictos.',
     fotos: [
       'https://i.ibb.co/ZLmjFx0/HECTOR1.jpg',
       'https://i.ibb.co/JvGGVMv/HECTOR2.jpg',
@@ -130,7 +131,7 @@ export const participantes = [
     ideologia: 'Ultraviolencia ultra antichichipanista.',
     aliados: 'aliados',
     enemigos: 'Los cerdos, los costras y los chichipanes.',
-    habilidades: 'habiliadades',
+    habilidades: 'habiliadades.',
     fotos: ['./assets/RANDOM/JOSEMI.jpg']
   },
   {
@@ -156,9 +157,9 @@ export const participantes = [
   {
     nombre: 'Luis',
     fotoPerfil: 'https://i.ibb.co/T8zy14D/Luis.jpg',
-    alias: 'El niño',
+    alias: 'El niño.',
     Rol: 'Rol',
-    ideologia: 'Aceleracionista soviético',
+    ideologia: 'Aceleracionista soviético.',
     aliados: 'aliados',
     enemigos: 'enemigos',
     habilidades: 'habiliadades',
@@ -173,7 +174,7 @@ export const participantes = [
     fotoPerfil: 'https://i.ibb.co/bJ9JFNW/Marisa.jpg',
     alias: 'Alias',
     Rol: 'Propagandista',
-    ideologia: 'Flokismo buenista',
+    ideologia: 'Flokismo buenista.',
     aliados: 'aliados',
     enemigos: 'Quien cuestione el calendario de custodia compartida.',
     habilidades: 'Faltar al respeto indiscriminadamanete en convocatorias.',
@@ -192,7 +193,8 @@ export const participantes = [
     ideologia: 'Racionalismo ácrata bondadoso.',
     aliados: 'Las primas. Los gatos. La gente buena.',
     enemigos: 'Las fechas y horas previamente avisadas y cerradas.',
-    habilidades: 'Encontrar realidades alternativas de bondad innata.',
+    habilidades:
+      'Encontrar realidades alternativas de bondad innata. Involucrarse de corazón en cosas que le apasionan.',
     fotos: [
       'https://i.ibb.co/rtwt9WS/MARTA1.jpg',
       'https://i.ibb.co/m5D7y7t/MARTA2.jpg',

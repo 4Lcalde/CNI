@@ -2,6 +2,7 @@ import './cargarPersona.css'
 import { app, participantes } from '../../data/data'
 
 export const cargarPersona = (persona) => {
+  console.log(persona)
   app.style.backgroundImage = 'none'
   const filtrado = participantes.filter(
     (participante) => participante.nombre === persona
@@ -9,9 +10,10 @@ export const cargarPersona = (persona) => {
   const target = filtrado
 
   const container = document.querySelector('.container')
-  if (persona === 'Mapa') {
+  if (persona === 'Mapa' || persona === null) {
+    app.style.backgroundImage = 'none'
+    container.style.backgroundImage = "url('https://i.ibb.co/KDL2RNp/mapa.png')"
     container.innerHTML = ''
-    app.style.backgroundImage = 'https://i.ibb.co/M8Rd7Ly/ZYME1.jpg'
     return
   }
   container.style.backgroundImage = 'none'
@@ -32,8 +34,6 @@ export const cargarPersona = (persona) => {
   divDatos.className = 'div-datos'
 
   for (const propiedad in target[0]) {
-    console.log(propiedad)
-    console.log([target[0][propiedad]])
     if (propiedad !== 'fotoPerfil' && propiedad !== 'fotos') {
       divDatos.innerHTML += `<p><span>${propiedad}: </span>${[
         target[0][propiedad]
