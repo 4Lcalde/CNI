@@ -5,7 +5,8 @@ export const header = () => {
   const header = document.createElement('header')
   const logo = document.createElement('img')
   logo.className = 'logo'
-  logo.src = './assets/LOGO/CNI.png'
+  logo.src =
+    'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CNIescudoespa%C3%B1a2.svg/1200px-CNIescudoespa%C3%B1a2.svg.png'
 
   logo.addEventListener('click', () => {
     location.reload()
