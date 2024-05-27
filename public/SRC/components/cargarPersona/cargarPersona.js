@@ -10,10 +10,11 @@ export const cargarPersona = (persona) => {
   const target = filtrado
 
   const container = document.querySelector('.container')
-  if (persona === 'Mapa' || persona === null) {
+  if (persona === 'Mapa') {
     app.style.backgroundImage = 'none'
-    container.style.backgroundImage = "url('https://i.ibb.co/KDL2RNp/mapa.png')"
-    container.innerHTML = ''
+
+    container.innerHTML =
+      '<div class="container" style="background-image: url(&quot;https://i.ibb.co/KDL2RNp/mapa.png&quot;);"></div>'
     return
   }
   container.style.backgroundImage = 'none'
