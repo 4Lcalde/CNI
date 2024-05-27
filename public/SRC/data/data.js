@@ -302,6 +302,7 @@ export const participantes = [
 ]
 
 export const personas = [
+  '',
   'Mapa',
   'Beltrán',
   'Campi',
