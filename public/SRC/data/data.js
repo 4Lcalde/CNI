@@ -5,7 +5,7 @@ import { personajes } from '../components/personajes/personajes'
 export const listadoHeader = [
   { nombre: 'Inicio', funcion: inicio },
   { nombre: 'Personajes', funcion: personajes },
-  { nombre: 'Investgación', funcion: investigacion }
+  { nombre: 'Investigación', funcion: investigacion }
 ]
 
 export const app = document.querySelector('#app')
@@ -66,7 +66,7 @@ export const participantes = [
   {
     nombre: 'Enol',
     fotoPerfil: 'https://i.ibb.co/1QNWWmz/Enol.jpg',
-    alias: 'El torpedo',
+    alias: 'El torpedo.',
     Rol: 'Organización de expectativas. "Chavales, no os flipéis"',
     ideologia: 'Imperialismo Panuserista.',
     aliados:
@@ -110,7 +110,7 @@ export const participantes = [
     fotoPerfil: 'https://i.ibb.co/qJ68qGH/H-ctor.jpg',
     alias: 'El buko.',
     Rol: 'Líder horizontal de Karaduras.',
-    ideologia: 'Marxismo-leninismo-flokismo',
+    ideologia: 'Marxismo-leninismo-flokismo.',
     aliados: 'Los gitanos y yonkis del cara. El glorioso camarada Stalin.',
     enemigos: 'Floki. Si no está 100% satisfecho castiga a Héctor sin salir.',
     habilidades: 'Crear elementos de mediación y gestión de conflictos.',
@@ -210,10 +210,10 @@ export const participantes = [
   {
     nombre: 'Mayte',
     fotoPerfil: 'https://i.ibb.co/bsgPBP5/Mayte.jpg',
-    alias: 'La serrana',
-    Rol: 'Relaciones diplomáticas interterritoriales',
-    ideologia: 'Anarquista pero anarquista bien no anarquista Eko',
-    aliados: 'Meningitis y hepatitis. Sus puños. A quien no matan dejan tonto',
+    alias: 'La serrana.',
+    Rol: 'Relaciones diplomáticas interterritoriales.',
+    ideologia: 'Anarquista pero anarquista bien no anarquista Eko.',
+    aliados: 'Meningitis y hepatitis. Sus puños. A quien no matan dejan tonto.',
     enemigos: 'enemigos',
     habilidades:
       'Estar siempre en los momentos importantes y generar colegueo guay. ',
@@ -232,7 +232,7 @@ export const participantes = [
     alias: 'El cerva.',
     Rol: 'El ímpetu de la juventud.',
     ideologia: 'Centralismo idemocrático.',
-    aliados: 'Los del otro cole. Tifus Crew',
+    aliados: 'Los del otro cole. Tifus Crew.',
     enemigos:
       'El rubencín y las previas de menos de 7 horas o la gente que quiere irse',
     habilidades:
@@ -251,12 +251,12 @@ export const participantes = [
   {
     nombre: 'Paula',
     fotoPerfil: 'https://i.ibb.co/p39vvJy/Paula.jpg',
-    alias: 'Alias',
+    alias: 'Bebé.',
     Rol: 'Rol',
-    ideologia: 'ideologia',
+    ideologia: 'Flow to thousand.',
     aliados: 'aliados',
     enemigos: 'enemigos',
-    habilidades: 'habiliadades',
+    habilidades: 'Decir que sí a to plan que se le proponga por raro que sea.',
     fotos: [
       'https://i.ibb.co/6yvNF57/PAULA1.jpg',
       'https://i.ibb.co/MP9hzxL/PAULA2.jpg',
@@ -269,11 +269,11 @@ export const participantes = [
     nombre: 'Victoria',
     fotoPerfil: './assets/PERFIL/Victoria.jpg',
     alias: 'Alias',
-    Rol: 'Vidente pitonisa',
+    Rol: 'Vidente pitonisa.',
     ideologia: 'ideologia',
     aliados: 'aliados',
-    enemigos: 'El horoscopo',
-    habilidades: 'Las predicciones de aquí a tiempo X',
+    enemigos: 'El horoscopo.',
+    habilidades: 'Las predicciones de aquí a tiempo X.',
     fotos: [
       'https://i.ibb.co/tMG1k9k/VICTORIA1.jpg',
       'https://i.ibb.co/v43Qqz9/VICTORIA2.jpg',
@@ -283,13 +283,13 @@ export const participantes = [
   {
     nombre: 'Zyme',
     fotoPerfil: 'https://i.ibb.co/ySttgjX/Zyme.jpg',
-    alias: 'El pinturas',
-    Rol: 'Liar a la gente para cosas random',
+    alias: 'El pinturas.',
+    Rol: 'Liar a la gente para cosas random.',
     ideologia: 'Ultrassur de línea dura pero antifa (a veces).',
     aliados: 'La subida del SMI. Le permite gastar más dinero.',
     enemigos:
       'Las cantidades de cosas objetiva y racionalmente suficientes para un propósito porque son pocas.',
-    habilidades: 'Sacar planes guapos de lugares inesperados',
+    habilidades: 'Sacar planes guapos de lugares inesperados.',
     fotos: [
       'https://i.ibb.co/M8Rd7Ly/ZYME1.jpg',
       'https://i.ibb.co/JdwP0k7/ZYME2.jpg',
@@ -304,7 +304,6 @@ export const participantes = [
 ]
 
 export const personas = [
-  '',
   'Mapa',
   'Beltrán',
   'Campi',
@@ -318,7 +317,6 @@ export const personas = [
   'Marisa',
   'Marta',
   'Mayte',
-
   'Pablo',
   'Paula',
   'Victoria',
