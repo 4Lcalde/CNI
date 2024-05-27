@@ -3,6 +3,7 @@ import './header.css'
 
 export const header = () => {
   const header = document.createElement('header')
+  header.id = 'main-header'
   const logo = document.createElement('img')
   logo.className = 'logo'
   logo.src =
@@ -16,6 +17,13 @@ export const header = () => {
   nav.className = 'nav'
   const ulNav = document.createElement('ul')
   ulNav.className = 'ul-nav'
+  const toggle = document.createElement('img')
+  toggle.classList.add('toggle', 'boton')
+  toggle.src = 'https://i.ibb.co/FWVRkGH/barra-svg.png'
+
+  toggle.addEventListener('click', () => {
+    nav.classList.toggle('abierto')
+  })
 
   for (const lista of listadoHeader) {
     const li = document.createElement('li')
@@ -26,19 +34,16 @@ export const header = () => {
     li.append(a)
     ulNav.append(li)
 
+    li.addEventListener('click', () => {
+      nav.classList.toggle('abierto')
+    })
+
     a.addEventListener('click', () => {
       lista.funcion()
     })
   }
-  const toggle = document.createElement('img')
-  toggle.classList.add('toggle', 'boton')
-  toggle.src = './assets/LOGO/barra.svg'
-
-  toggle.addEventListener('click', () => {
-    nav.classList.toggle('abierto')
-  })
 
   nav.append(ulNav)
   header.append(logo, nav, toggle)
-  document.body.insertBefore(header, app)
+  document.body.insertBefore(header, document.body.firstChild)
 }
