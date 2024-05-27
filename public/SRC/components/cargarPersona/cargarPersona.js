@@ -1,22 +1,21 @@
 import './cargarPersona.css'
-import { app, participantes } from '../../data/data'
+import { app, baseDomain, participantes } from '../../data/data'
 
 export const cargarPersona = (persona) => {
   app.style.backgroundImage = 'none'
   const filtrado = participantes.filter(
     (participante) => participante.nombre === persona
   )
-  const target = filtrado
+  const target = filtrado[0]
 
   const container = document.querySelector('.container')
   if (persona === 'Mapa') {
     app.style.backgroundImage = 'none'
-    container.style.backgroundImage = "url('./assets/PERFIL/mapa.png')"
+    container.style.backgroundImage = `${baseDomain}/assets/PERFIL/mapa.png`
     container.innerHTML = ''
     return
   }
   container.style.backgroundImage = 'none'
-
   container.innerHTML = ''
 
   const divInfo = document.createElement('div')
@@ -27,18 +26,14 @@ export const cargarPersona = (persona) => {
 
   const perfil = document.createElement('img')
   perfil.className = 'perfil'
-  perfil.src = target[0].fotoPerfil
+  perfil.src = target.fotoPerfil
 
   const divDatos = document.createElement('div')
   divDatos.className = 'div-datos'
 
-  for (const propiedad in target[0]) {
-    console.log(propiedad)
-    console.log([target[0][propiedad]])
+  for (const propiedad in target) {
     if (propiedad !== 'fotoPerfil' && propiedad !== 'fotos') {
-      divDatos.innerHTML += `<p><span>${propiedad}: </span>${[
-        target[0][propiedad]
-      ]}</p>`
+      divDatos.innerHTML += `<p><span>${propiedad}: </span>${target[propiedad]}</p>`
     }
   }
 
@@ -46,7 +41,7 @@ export const cargarPersona = (persona) => {
   divFotos.className = 'div-fotos'
   let contador = 1
 
-  for (const foto of target[0].fotos) {
+  for (const foto of target.fotos) {
     const img = document.createElement('img')
     img.src = foto
     img.classList.add('foto', `foto${contador}`)

@@ -1,7 +1,7 @@
 import { inicio } from '../components/inicio/inicio'
 import { investigacion } from '../components/investigacion/investigacion'
 import { personajes } from '../components/personajes/personajes'
-
+export const baseDomain = 'https://cni-olive.vercel.app'
 export const listadoHeader = [
   { nombre: 'Inicio', funcion: inicio },
   { nombre: 'Personajes', funcion: personajes },
@@ -12,7 +12,7 @@ export const app = document.querySelector('#app')
 export const participantes = [
   {
     nombre: 'Beltrán',
-    fotoPerfil: './assets/PERFIL/Beltrán.jpg',
+    fotoPerfil: `${baseDomain}/assets/PERFIL/Beltrán.jpg`,
     alias: 'El vallecano.',
     rol: 'Comandante en jefe del Estado Mayor de Defensa de (v)KRBC.',
     ideologia: 'Acción directa.',
@@ -22,12 +22,12 @@ export const participantes = [
     habilidades:
       'Absolutamente todas. Estar siempre que hace falta para lo que sea.',
     fotos: [
-      './assets/RANDOM/BELTRAN1.jpg',
-      './assets/RANDOM/BELTRAN2.jpg',
-      './assets/RANDOM/BELTRAN3.jpg',
-      './assets/RANDOM/BELTRAN4.jpg',
-      './assets/RANDOM/BELTRAN5.jpg',
-      './assets/RANDOM/BELTRAN6.jpg'
+      `${baseDomain}/assets/RANDOM/BELTRAN1.jpg`,
+      `${baseDomain}/assets/RANDOM/BELTRAN2.jpg`,
+      `${baseDomain}/assets/RANDOM/BELTRAN3.jpg`,
+      `${baseDomain}/assets/RANDOM/BELTRAN4.jpg`,
+      `${baseDomain}/assets/RANDOM/BELTRAN5.jpg`,
+      `${baseDomain}/assets/RANDOM/BELTRAN6.jpg`
     ]
   },
   {

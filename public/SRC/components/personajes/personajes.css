@@ -89,56 +89,56 @@
   position: absolute;
   transform: rotate(-20deg);
   right: 55%;
-  top: 15%;
+  top: 10%;
 }
 .foto2 {
   position: absolute;
   transform: rotate(20deg);
   right: 55%;
-  top: 35%;
+  top: 30%;
 }
 .foto3 {
   position: absolute;
   transform: rotate(-20deg);
   right: 40%;
-  top: 25%;
+  top: 20%;
 }
 .foto4 {
   position: absolute;
   transform: rotate(40deg);
   left: 40%;
-  top: 55%;
+  top: 50%;
 }
 .foto5 {
   position: absolute;
   transform: rotate(30deg);
   right: 15%;
-  top: 15%;
+  top: 10%;
 }
 .foto6 {
   position: absolute;
   transform: rotate(-30deg);
   right: 25%;
-  top: 55%;
+  top: 50%;
 }
 .foto7 {
   position: absolute;
   transform: rotate(30deg);
   right: 25%;
-  top: 20%;
+  top: 15%;
 }
 .foto8 {
   position: absolute;
   transform: rotate(90deg);
   right: 35%;
-  top: 5%;
+  top: 0%;
 }
 
 .foto9 {
   position: absolute;
   transform: rotate(-60deg);
   right: 15%;
-  top: 35%;
+  top: 30%;
 }
 @media (max-width: 955px) {
   .div-info {
