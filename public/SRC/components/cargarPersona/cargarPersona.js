@@ -11,11 +11,8 @@ export const cargarPersona = (persona) => {
   const container = document.querySelector('.container')
   if (persona === 'Mapa') {
     app.style.backgroundImage = 'none'
+    container.style.backgroundImage = "url('./assets/PERFIL/mapa.png')"
     container.innerHTML = ''
-    const img = document.createElement('img')
-    img.src = 'https://i.ibb.co/KDL2RNp/mapa.png'
-    img.className = 'mapa'
-    container.append(img)
     return
   }
   container.style.backgroundImage = 'none'
