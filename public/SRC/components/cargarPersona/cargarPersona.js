@@ -10,7 +10,8 @@ export const cargarPersona = (persona) => {
 
   const container = document.querySelector('.container')
   if (persona === 'Mapa') {
-    container.style.backgroundImage = "url('./assets/PERFIL/mapa.png')"
+    container.style.backgroundImage =
+      "url('https://drive.google.com/file/d/1eOzAzmHzRrEdXnCzjG_v6ykFKV8dUL-a/view?usp=sharing')"
     container.innerHTML = ''
     return
   }
