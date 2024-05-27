@@ -61,7 +61,9 @@ export const participantes = [
     fotos: [
       'https://i.ibb.co/DW9PYHc/CRIS1.jpg',
       'https://i.ibb.co/GsY0MHh/CRIS2.jpg',
-      'https://i.ibb.co/RTQBKr7/CRIS3.jpg'
+      'https://i.ibb.co/RTQBKr7/CRIS3.jpg',
+      'https://i.ibb.co/QP0DRQW/CRIS4.jpg',
+      'https://i.ibb.co/RCLNGD5/CRIS5.jpg'
     ]
   },
   {
