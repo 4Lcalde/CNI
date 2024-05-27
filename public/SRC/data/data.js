@@ -132,10 +132,13 @@ export const participantes = [
     alias: 'Líder de los Josemis.',
     Rol: 'Organización social.',
     ideologia: 'Ultraviolencia ultra antichichipanista.',
-    aliados: 'aliados',
+    aliados: 'El Vicente. Los semicadáveres del hospital',
     enemigos: 'Los cerdos, los costras y los chichipanes.',
-    habilidades: 'habiliadades.',
-    fotos: ['./assets/RANDOM/JOSEMI.jpg']
+    habilidades:
+      'El Kung-fu. Liarte para ir a cenar a un sitio carísimo pero que a él le sale gratis con un ticket. ',
+    fotos: [
+      'https://png.pngtree.com/png-clipart/20231101/original/pngtree-unidentified-man-with-featureless-and-expressionless-face-unrecognizable-person-photo-png-image_13469113.png'
+    ]
   },
   {
     nombre: 'Laura',
@@ -143,9 +146,10 @@ export const participantes = [
     alias: 'The lemon bukaner.',
     Rol: 'Eje moral del grupo.',
     ideologia: 'La casualidad.',
-    aliados: 'aliados',
-    enemigos: 'La poca previsión de cuantos van a ir.',
-    habilidades: 'Poner orden.',
+    aliados: 'El Paco.',
+    enemigos: 'La poca previsión de cuantos van a ir. Los estantes de arriba. ',
+    habilidades:
+      'Poner orden. Quitarse los pendientes echando hostias si ve jaleo. ',
     fotos: [
       'https://i.ibb.co/zHxzZSf/LAURA1.jpg',
       'https://i.ibb.co/MkVMgnr/LAURA2.jpg',
@@ -161,15 +165,17 @@ export const participantes = [
     nombre: 'Luis',
     fotoPerfil: 'https://i.ibb.co/T8zy14D/Luis.jpg',
     alias: 'El niño.',
-    Rol: 'Rol',
+    Rol: 'Protegerte de que no te entren virus cuando pinchas en páginas raras. ',
     ideologia: 'Aceleracionista soviético.',
-    aliados: 'aliados',
-    enemigos: 'enemigos',
-    habilidades: 'habiliadades',
+    aliados:
+      'Los marroquís de Guadarrama. No será reprimido en el Al-Andalus II',
+    enemigos: 'La gente que no se lo pasa bien. ',
+    habilidades: 'Conocimientos absurdamente amplios de música. ',
     fotos: [
       'https://i.ibb.co/XXLfz3Y/LUIS1.jpg',
       'https://i.ibb.co/RcP3yJP/LUIS2.jpg',
-      'https://i.ibb.co/gjJ6fF8/LUIS3.jpg'
+      'https://i.ibb.co/gjJ6fF8/LUIS3.jpg',
+      'https://i.ibb.co/936MRW0/luis4.jpg'
     ]
   },
   {
@@ -178,7 +184,7 @@ export const participantes = [
     alias: 'Alias',
     Rol: 'Propagandista',
     ideologia: 'Flokismo buenista.',
-    aliados: 'aliados',
+    aliados: 'La gente de Getafe. Qué Getafe, Qué gente',
     enemigos: 'Quien cuestione el calendario de custodia compartida.',
     habilidades: 'Faltar al respeto indiscriminadamanete en convocatorias.',
     fotos: [
@@ -217,7 +223,7 @@ export const participantes = [
     Rol: 'Relaciones diplomáticas interterritoriales.',
     ideologia: 'Anarquista pero anarquista bien no anarquista Eko.',
     aliados: 'Meningitis y hepatitis. Sus puños. A quien no matan dejan tonto.',
-    enemigos: 'enemigos',
+    enemigos: 'Los niños de la mina cuando son más de tres juntos.',
     habilidades:
       'Estar siempre en los momentos importantes y generar colegueo guay. ',
     fotos: [
@@ -257,7 +263,7 @@ export const participantes = [
     alias: 'Bebé.',
     Rol: 'Rol',
     ideologia: 'Flow to thousand.',
-    aliados: 'aliados',
+    aliados: 'La bad Gyal',
     enemigos: 'enemigos',
     habilidades: 'Decir que sí a to plan que se le proponga por raro que sea.',
     fotos: [
@@ -271,12 +277,12 @@ export const participantes = [
   {
     nombre: 'Victoria',
     fotoPerfil: './assets/PERFIL/Victoria.jpg',
-    alias: 'Alias',
+    alias: 'La libertadora',
     Rol: 'Vidente pitonisa.',
     ideologia: 'ideologia',
     aliados: 'aliados',
     enemigos: 'El horoscopo.',
-    habilidades: 'Las predicciones de aquí a tiempo X.',
+    habilidades: 'Las predicciones de aquí a tiempo X. Integrarse rapidísimo.',
     fotos: [
       'https://i.ibb.co/tMG1k9k/VICTORIA1.jpg',
       'https://i.ibb.co/v43Qqz9/VICTORIA2.jpg',
