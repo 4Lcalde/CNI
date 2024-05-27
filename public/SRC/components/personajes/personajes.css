@@ -73,7 +73,7 @@
 .foto:hover {
   z-index: 1;
   transform: rotate(0);
-  transform: scale(1.2);
+  transform: scale(1.4);
 }
 
 .div-fotos {
