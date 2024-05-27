@@ -40,10 +40,10 @@ export const participantes = [
     enemigos: 'La ausencia de sonido. Las pantas',
     habilidades: 'Ser duro como un minero.',
     fotos: [
-      './assets/RANDOM/CAMPI1.jpg',
-      './assets/RANDOM/CAMPI2.jpg',
-      './assets/RANDOM/CAMPI3.jpg',
-      './assets/RANDOM/CAMPI4.jpg'
+      'https://i.ibb.co/kQS5jY1/CAMPI1.jpg',
+      'https://i.ibb.co/P1tGnzZ/CAMPI2.jpg',
+      'https://i.ibb.co/VQDW2Tj/CAMPI3.jpg',
+      'https://i.ibb.co/9N571Cx/CAMPI4.jpg'
     ]
   },
   {
@@ -57,9 +57,9 @@ export const participantes = [
     habilidades:
       'Exquisito gusto artístico junto a excelentes dotes interpersonales.',
     fotos: [
-      './assets/RANDOM/CRIS1.jpg',
-      './assets/RANDOM/CRIS2.jpg',
-      './assets/RANDOM/CRIS3.jpg'
+      'https://i.ibb.co/DW9PYHc/CRIS1.jpg',
+      'https://i.ibb.co/GsY0MHh/CRIS2.jpg',
+      'https://i.ibb.co/RTQBKr7/CRIS3.jpg'
     ]
   },
   {
@@ -75,13 +75,13 @@ export const participantes = [
     habilidades:
       'Adaptabilidad a cualquier entorno y ambiente generando buen rollo. ',
     fotos: [
-      './assets/RANDOM/ENOL1.jpg',
-      './assets/RANDOM/ENOL2.jpg',
-      './assets/RANDOM/ENOL3.jpg',
-      './assets/RANDOM/ENOL4.jpg',
-      './assets/RANDOM/ENOL5.jpg',
-      './assets/RANDOM/ENOL6.jpg',
-      './assets/RANDOM/ENOL7.jpg'
+      'https://i.ibb.co/1mhvCvT/ENOL1-copia.jpg',
+      'https://i.ibb.co/VxwCcGz/ENOL2.jpg',
+      'https://i.ibb.co/vXT8KMm/ENOL3.jpg',
+      'https://i.ibb.co/SKxQr8d/ENOL4.jpg',
+      'https://i.ibb.co/JtX2fJx/ENOL5.jpg',
+      'https://i.ibb.co/thJmX2T/ENOL6.jpg',
+      'https://i.ibb.co/d7fK8hJ/ENOL7.jpg'
     ]
   },
   {
@@ -95,13 +95,13 @@ export const participantes = [
     enemigos: 'La autoridad y el aburrimiento.',
     habilidades: 'Ilimitada energía y batería social. ',
     fotos: [
-      './assets/RANDOM/GROW1.jpg',
-      './assets/RANDOM/GROW2.jpg',
-      './assets/RANDOM/GROW3.jpg',
-      './assets/RANDOM/GROW4.jpg',
-      './assets/RANDOM/GROW5.jpg',
-      './assets/RANDOM/GROW6.jpg',
-      './assets/RANDOM/GROW7.jpg'
+      'https://i.ibb.co/ZcK0SK1/GROW1-copia.jpg',
+      'https://i.ibb.co/Y7m9s25/GROW2.jpg',
+      'https://i.ibb.co/y0mfJW8/GROW3.jpg',
+      'https://i.ibb.co/syhfYkq/GROW4.jpg',
+      'https://i.ibb.co/3zWnPKc/GROW5.jpg',
+      'https://i.ibb.co/8XTNjwN/GROW6.jpg',
+      'https://i.ibb.co/NjwbBxB/GROW7.jpg'
     ]
   },
   {
@@ -114,12 +114,12 @@ export const participantes = [
     enemigos: 'Floki. Si no está 100% satisfecho castiga a Héctor sin salir',
     habilidades: 'Crear elementos de mediación y gestión de conflictos',
     fotos: [
-      './assets/RANDOM/HECTOR1.jpg',
-      './assets/RANDOM/HECTOR2.jpg',
-      './assets/RANDOM/HECTOR3.jpg',
-      './assets/RANDOM/HECTOR4.jpg',
-      './assets/RANDOM/HECTOR5.jpg',
-      './assets/RANDOM/HECTOR6.jpg'
+      'https://i.ibb.co/ZLmjFx0/HECTOR1.jpg',
+      'https://i.ibb.co/JvGGVMv/HECTOR2.jpg',
+      'https://i.ibb.co/kB65Htd/HECTOR3.jpg',
+      'https://i.ibb.co/HTP1yrB/HECTOR4.jpg',
+      'https://i.ibb.co/rMkJ3Gz/HECTOR5.jpg',
+      'https://i.ibb.co/SJh8Jnd/HECTOR6.jpg'
     ]
   },
   {
@@ -143,14 +143,14 @@ export const participantes = [
     enemigos: 'La poca previsión de cuantos van a ir.',
     habilidades: 'Poner orden.',
     fotos: [
-      './assets/RANDOM/LAURA1.jpg',
-      './assets/RANDOM/LAURA2.jpg',
-      './assets/RANDOM/LAURA3.jpg',
-      './assets/RANDOM/LAURA4.jpg',
-      './assets/RANDOM/LAURA5.jpg',
-      './assets/RANDOM/LAURA6.jpg',
-      './assets/RANDOM/LAURA7.jpg',
-      './assets/RANDOM/LAURA8.jpg'
+      'https://i.ibb.co/zHxzZSf/LAURA1.jpg',
+      'https://i.ibb.co/MkVMgnr/LAURA2.jpg',
+      'https://i.ibb.co/7JVjNVk/LAURA3.jpg',
+      'https://i.ibb.co/KD6jLW7/LAURA4.jpg',
+      'https://i.ibb.co/2v66SGR/LAURA5.jpg',
+      'https://i.ibb.co/jTPstp7/LAURA6.jpg',
+      'https://i.ibb.co/PNbwX61/LAURA7.jpg',
+      'https://i.ibb.co/FzP312V/LAURA8.jpg'
     ]
   },
   {
@@ -163,9 +163,9 @@ export const participantes = [
     enemigos: 'enemigos',
     habilidades: 'habiliadades',
     fotos: [
-      './assets/RANDOM/LUIS1.jpg',
-      './assets/RANDOM/LUIS2.jpg',
-      './assets/RANDOM/LUIS3.jpg'
+      'https://i.ibb.co/XXLfz3Y/LUIS1.jpg',
+      'https://i.ibb.co/RcP3yJP/LUIS2.jpg',
+      'https://i.ibb.co/gjJ6fF8/LUIS3.jpg'
     ]
   },
   {
@@ -178,10 +178,10 @@ export const participantes = [
     enemigos: 'Quien cuestione el calendario de custodia compartida.',
     habilidades: 'Faltar al respeto indiscriminadamanete en convocatorias.',
     fotos: [
-      './assets/RANDOM/MARISA1.jpg',
-      './assets/RANDOM/MARISA2.jpg',
-      './assets/RANDOM/MARISA3.jpg',
-      './assets/RANDOM/MARISA4.jpg'
+      'https://i.ibb.co/yN3sN0K/MARISA1.jpg',
+      'https://i.ibb.co/b3DwJ9n/MARISA2.jpg',
+      'https://i.ibb.co/x3GvV6x/MARISA3.jpg',
+      'https://i.ibb.co/Dzm2VZ3/MARISA4.jpg'
     ]
   },
   {
@@ -194,15 +194,15 @@ export const participantes = [
     enemigos: 'Las fechas y horas previamente avisadas y cerradas.',
     habilidades: 'Encontrar realidades alternativas de bondad innata.',
     fotos: [
-      './assets/RANDOM/MARTA1.jpg',
-      './assets/RANDOM/MARTA2.jpg',
-      './assets/RANDOM/MARTA3.jpg',
-      './assets/RANDOM/MARTA4.jpg',
-      './assets/RANDOM/MARTA5.jpg',
-      './assets/RANDOM/MARTA6.jpg',
-      './assets/RANDOM/MARTA7.jpg',
-      './assets/RANDOM/MARTA8.jpg',
-      './assets/RANDOM/MARTA9.jpg'
+      'https://i.ibb.co/rtwt9WS/MARTA1.jpg',
+      'https://i.ibb.co/m5D7y7t/MARTA2.jpg',
+      'https://i.ibb.co/0Xb04Gc/MARTA3.jpg',
+      'https://i.ibb.co/Zg3fbsv/MARTA4.jpg',
+      'https://i.ibb.co/Y7nJFCd/MARTA5.jpg',
+      'https://i.ibb.co/sqdD2sZ/MARTA6.jpg',
+      'https://i.ibb.co/pnHh82y/MARTA7.jpg',
+      'https://i.ibb.co/c3Kr2LW/MARTA8.jpg',
+      'https://i.ibb.co/yFjpLMm/MARTA9.jpg'
     ]
   },
   {
@@ -216,12 +216,12 @@ export const participantes = [
     habilidades:
       'Estar siempre en los momentos importantes y generar colegueo guay. ',
     fotos: [
-      './assets/RANDOM/MAYTE1.jpg',
-      './assets/RANDOM/MAYTE2.jpg',
-      './assets/RANDOM/MAYTE3.jpg',
-      './assets/RANDOM/MAYTE4.jpg',
-      './assets/RANDOM/MAYTE5.jpg',
-      './assets/RANDOM/MAYTE6.jpg'
+      'https://i.ibb.co/XtnPmxv/MAYTE1.jpg',
+      'https://i.ibb.co/Rgcw2D1/MAYTE2.jpg',
+      'https://i.ibb.co/3mbHr4S/MAYTE3.jpg',
+      'https://i.ibb.co/0QVr1J7/MAYTE4.jpg',
+      'https://i.ibb.co/Zd46fjb/MAYTE5.jpg',
+      'https://i.ibb.co/XjqnCH3/MAYTE6.jpg'
     ]
   },
   {
@@ -233,16 +233,17 @@ export const participantes = [
     aliados: 'Los del otro cole. Tifus Crew',
     enemigos:
       'El rubencín y las previas de menos de 7 horas o la gente que quiere irse',
-    habilidades: 'Hacer que te quedes a la última.',
+    habilidades:
+      'Hacer que te quedes a la última. Hacer que nunca sepas qué emoción está mostrando. ',
     fotos: [
-      './assets/RANDOM/PABLO1.jpg',
-      './assets/RANDOM/PABLO2.jpg',
-      './assets/RANDOM/PABLO3.jpg',
-      './assets/RANDOM/PABLO4.jpg',
-      './assets/RANDOM/PABLO5.jpg',
-      './assets/RANDOM/PABLO6.jpg',
-      './assets/RANDOM/PABLO7.jpg',
-      './assets/RANDOM/PABLO8.jpg'
+      'https://i.ibb.co/FD7d88h/PABLO1.jpg',
+      'https://i.ibb.co/tX6V2vL/PABLO2.jpg',
+      'https://i.ibb.co/G2rfLG7/PABLO3.jpg',
+      'https://i.ibb.co/xhW59cS/PABLO4.jpg',
+      'https://i.ibb.co/CtFgwMJ/PABLO5.jpg',
+      'https://i.ibb.co/4pPC39S/PABLO6.jpg',
+      'https://i.ibb.co/WBZB0Sr/PABLO7.jpg',
+      'https://i.ibb.co/Q9X6HZR/PABLO8.jpg'
     ]
   },
   {
@@ -255,11 +256,11 @@ export const participantes = [
     enemigos: 'enemigos',
     habilidades: 'habiliadades',
     fotos: [
-      './assets/RANDOM/PAULA1.jpg',
-      './assets/RANDOM/PAULA2.jpg',
-      './assets/RANDOM/PAULA3.jpg',
-      './assets/RANDOM/PAULA4.jpg',
-      './assets/RANDOM/PAULA5.jpg'
+      'https://i.ibb.co/6yvNF57/PAULA1.jpg',
+      'https://i.ibb.co/MP9hzxL/PAULA2.jpg',
+      'https://i.ibb.co/XkQGj43/PAULA3.jpg',
+      'https://i.ibb.co/ChcXGLJ/PAULA4.jpg',
+      'https://i.ibb.co/CPDhY72/PAULA5.jpg'
     ]
   },
   {
@@ -272,9 +273,9 @@ export const participantes = [
     enemigos: 'El horoscopo',
     habilidades: 'Las predicciones de aquí a tiempo X',
     fotos: [
-      './assets/RANDOM/VICTORIA1.jpg',
-      './assets/RANDOM/VICTORIA2.jpg',
-      './assets/RANDOM/VICTORIA3.jpg'
+      'https://i.ibb.co/tMG1k9k/VICTORIA1.jpg',
+      'https://i.ibb.co/v43Qqz9/VICTORIA2.jpg',
+      'https://i.ibb.co/HX3n2JR/VICTORIA3.jpg'
     ]
   },
   {
@@ -288,14 +289,14 @@ export const participantes = [
       'Las cantidades de cosas objetiva y racionalmente suficientes para un propósito porque son pocas.',
     habilidades: 'Sacar planes guapos de lugares inesperados',
     fotos: [
-      './assets/RANDOM/ZYME1.jpg',
-      './assets/RANDOM/ZYME2.jpg',
-      './assets/RANDOM/ZYME3.jpg',
-      './assets/RANDOM/ZYME4.jpg',
-      './assets/RANDOM/ZYME5.jpg',
-      './assets/RANDOM/ZYME6.jpg',
-      './assets/RANDOM/ZYME7.jpg',
-      './assets/RANDOM/ZYME8.jpg'
+      'https://i.ibb.co/M8Rd7Ly/ZYME1.jpg',
+      'https://i.ibb.co/JdwP0k7/ZYME2.jpg',
+      'https://i.ibb.co/Sfg8ZP1/ZYME3.jpg',
+      'https://i.ibb.co/ZG5XNQd/ZYME4.jpg',
+      'https://i.ibb.co/3StqRrY/ZYME5.jpg',
+      'https://i.ibb.co/nfKN1Y3/ZYME6.jpg',
+      'https://i.ibb.co/6HwS3GG/ZYME7.jpg',
+      'https://i.ibb.co/QQx32CC/ZYME8.jpg'
     ]
   }
 ]
