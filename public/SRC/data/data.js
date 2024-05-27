@@ -12,7 +12,7 @@ export const app = document.querySelector('#app')
 export const participantes = [
   {
     nombre: 'Beltrán',
-    fotoPerfil: './assets/PERFIL/Beltrán.jpg',
+    fotoPerfil: 'https://i.ibb.co/qn2QLbS/Beltr-n.jpg',
     alias: 'El vallecano.',
     rol: 'Comandante en jefe del Estado Mayor de Defensa de (v)KRBC.',
     ideologia: 'Acción directa.',
@@ -33,7 +33,7 @@ export const participantes = [
   },
   {
     nombre: 'Campi',
-    fotoPerfil: './assets/PERFIL/Campi.jpg',
+    fotoPerfil: 'https://i.ibb.co/0YmXkS0/Campi.jpg',
     alias: 'El leonés',
     Rol: 'Difusión interna de información.',
     ideologia: 'Autogestión y organización llionesa.',
@@ -49,7 +49,7 @@ export const participantes = [
   },
   {
     nombre: 'Cris',
-    fotoPerfil: './assets/PERFIL/Cris.jpg',
+    fotoPerfil: 'https://i.ibb.co/LCSr1Wj/Cris.jpg',
     alias: 'Sandalia caótica.',
     Rol: 'Suministradora de cultura popular de altísimo nivel.',
     ideologia: 'Anarquismo Patty&Shelmista.',
@@ -65,7 +65,7 @@ export const participantes = [
   },
   {
     nombre: 'Enol',
-    fotoPerfil: './assets/PERFIL/Enol.jpg',
+    fotoPerfil: 'https://i.ibb.co/1QNWWmz/Enol.jpg',
     alias: 'El torpedo',
     Rol: 'Organización de expectativas. "Chavales, no os flipéis"',
     ideologia: 'Imperialismo Panuserista.',
@@ -87,7 +87,7 @@ export const participantes = [
   },
   {
     nombre: 'Grow',
-    fotoPerfil: './assets/PERFIL/Grow.jpg',
+    fotoPerfil: 'https://i.ibb.co/F6zwppr/Grow.jpg',
     alias: 'El ojo del huracán.',
     Rol: 'Relaciones públicas.',
     ideologia: 'Teoría del caos.',
@@ -107,7 +107,7 @@ export const participantes = [
   },
   {
     nombre: 'Héctor',
-    fotoPerfil: './assets/PERFIL/Héctor.jpg',
+    fotoPerfil: 'https://i.ibb.co/qJ68qGH/H-ctor.jpg',
     alias: 'El buko',
     Rol: 'Líder horizontal de Karaduras',
     ideologia: 'Marxismo-leninismo-flokismo',
@@ -125,7 +125,7 @@ export const participantes = [
   },
   {
     nombre: 'Josemi',
-    fotoPerfil: './assets/PERFIL/Josemi.jpg',
+    fotoPerfil: 'https://i.ibb.co/6b07WW4/Josemi.jpg',
     alias: 'Líder de los Josemis.',
     Rol: 'Organización social.',
     ideologia: 'Ultraviolencia ultra antichichipanista.',
@@ -136,7 +136,7 @@ export const participantes = [
   },
   {
     nombre: 'Laura',
-    fotoPerfil: './assets/PERFIL/Laura.jpg',
+    fotoPerfil: 'https://i.ibb.co/sj9J24p/Laura.jpg',
     alias: 'The lemon bukaner.',
     Rol: 'Eje moral del grupo.',
     ideologia: 'La casualidad.',
@@ -156,7 +156,7 @@ export const participantes = [
   },
   {
     nombre: 'Luis',
-    fotoPerfil: './assets/PERFIL/Luis.jpg',
+    fotoPerfil: 'https://i.ibb.co/T8zy14D/Luis.jpg',
     alias: 'El niño',
     Rol: 'Rol',
     ideologia: 'Aceleracionista soviético',
@@ -171,7 +171,7 @@ export const participantes = [
   },
   {
     nombre: 'Marisa',
-    fotoPerfil: './assets/PERFIL/Marisa.jpg',
+    fotoPerfil: 'https://i.ibb.co/bJ9JFNW/Marisa.jpg',
     alias: 'Alias',
     Rol: 'Propagandista',
     ideologia: 'Flokismo buenista',
@@ -187,7 +187,7 @@ export const participantes = [
   },
   {
     nombre: 'Marta',
-    fotoPerfil: './assets/PERFIL/Marta.jpg',
+    fotoPerfil: 'https://i.ibb.co/YjNXZ8Y/Marta.jpg',
     alias: 'alias',
     Rol: 'Estabilizadora de meterse en jaleos.',
     ideologia: 'Racionalismo ácrata bondadoso.',
@@ -208,7 +208,7 @@ export const participantes = [
   },
   {
     nombre: 'Mayte',
-    fotoPerfil: './assets/PERFIL/Mayte.jpg',
+    fotoPerfil: 'https://i.ibb.co/bsgPBP5/Mayte.jpg',
     alias: 'La serrana',
     Rol: 'Relaciones diplomáticas interterritoriales',
     ideologia: 'Anarquista pero anarquista bien no anarquista Eko',
@@ -227,7 +227,7 @@ export const participantes = [
   },
   {
     nombre: 'Pablo',
-    fotoPerfil: './assets/PERFIL/Pablo.jpg',
+    fotoPerfil: 'https://i.ibb.co/cxmYy4L/Pablo.jpg',
     alias: 'El cerva.',
     Rol: 'El ímpetu de la juventud.',
     ideologia: 'Centralismo idemocrático.',
@@ -248,7 +248,7 @@ export const participantes = [
   },
   {
     nombre: 'Paula',
-    fotoPerfil: './assets/PERFIL/Paula.jpg',
+    fotoPerfil: 'https://i.ibb.co/p39vvJy/Paula.jpg',
     alias: 'Alias',
     Rol: 'Rol',
     ideologia: 'ideologia',
@@ -280,7 +280,7 @@ export const participantes = [
   },
   {
     nombre: 'Zyme',
-    fotoPerfil: './assets/PERFIL/Zyme.jpg',
+    fotoPerfil: 'https://i.ibb.co/ySttgjX/Zyme.jpg',
     alias: 'El pinturas',
     Rol: 'Liar a la gente para cosas random',
     ideologia: 'Ultrassur de línea dura pero antifa (a veces).',
