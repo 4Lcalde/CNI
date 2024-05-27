@@ -22,13 +22,12 @@ export const participantes = [
     habilidades:
       'Absolutamente todas. Estar siempre que hace falta para lo que sea.',
     fotos: [
-      './assets/RANDOM/BELTRAN1.jpg',
-      './assets/RANDOM/BELTRAN2.jpg',
-      './assets/RANDOM/BELTRAN3.jpg',
-      './assets/RANDOM/BELTRAN4.jpg',
-      './assets/RANDOM/BELTRAN5.jpg',
-      './assets/RANDOM/BELTRAN6.jpg',
-      'https://i.ibb.co/mb89kQD/BELTRAN1.jpg'
+      'https://ibb.co/87NLCjW',
+      'https://ibb.co/0jwtpQD',
+      'https://ibb.co/87FSQkx',
+      'https://ibb.co/NCSPKSZ',
+      'https://ibb.co/XSrbgkX',
+      'https://ibb.co/vYvZLDY'
     ]
   },
   {
