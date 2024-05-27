@@ -27,7 +27,8 @@ export const participantes = [
       './assets/RANDOM/BELTRAN3.jpg',
       './assets/RANDOM/BELTRAN4.jpg',
       './assets/RANDOM/BELTRAN5.jpg',
-      './assets/RANDOM/BELTRAN6.jpg'
+      './assets/RANDOM/BELTRAN6.jpg',
+      'https://i.ibb.co/mb89kQD/BELTRAN1.jpg'
     ]
   },
   {
