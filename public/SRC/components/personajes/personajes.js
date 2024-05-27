@@ -4,6 +4,7 @@ import './personajes.css'
 
 export const personajes = () => {
   app.innerHTML = ''
+  app.style.backgroundImage = 'none'
   const section = document.createElement('section')
   section.className = 'section'
 
