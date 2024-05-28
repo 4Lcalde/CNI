@@ -40,7 +40,7 @@ export const participantes = [
     alias: 'El leonés',
     Rol: 'Difusión interna de información.',
     ideologia: 'Autogestión y organización llionesa.',
-    aliados: 'Cualquiera ',
+    aliados: 'Cualquiera que le rente estar un rato agusto.  ',
     enemigos: 'La ausencia de sonido. Las plantas.',
     habilidades:
       'Ser duro como un minero y aparecer siempre que se le necesita.',
@@ -75,7 +75,7 @@ export const participantes = [
     nombre: 'Enol',
     fotoPerfil: 'https://i.ibb.co/1QNWWmz/Enol.jpg',
     alias: 'El torpedo.',
-    Rol: 'Organización de expectativas. "Chavales, no os flipéis"',
+    Rol: 'Organización de expectativas. "Chavales, no os flipéis".',
     ideologia: 'Imperialismo Panuserista.',
     aliados:
       'Usera Antifa. ¿Están aquí con nosotros en esta sala esos antifas?',
@@ -137,7 +137,7 @@ export const participantes = [
     alias: 'Líder de los Josemis.',
     Rol: 'Organización social.',
     ideologia: 'Ultraviolencia ultra antichichipanista.',
-    aliados: 'El Vicente. Los semicadáveres del hospital',
+    aliados: 'El Vicente. Los semicadáveres del hospital.',
     enemigos: 'Los cerdos, los costras y los chichipanes.',
     habilidades:
       'El Kung-fu. Liarte para ir a cenar a un sitio carísimo pero que a él le sale gratis con un ticket. ',
@@ -249,7 +249,7 @@ export const participantes = [
     ideologia: 'Centralismo idemocrático.',
     aliados: 'Los del otro cole. Tifus Crew.',
     enemigos:
-      'El rubencín y las previas de menos de 7 horas o la gente que quiere irse',
+      'El rubencín y las previas de menos de 7 horas o la gente que quiere irse.',
     habilidades:
       'Hacer que te quedes a la última. Hacer que nunca sepas qué emoción está mostrando. ',
     fotos: [

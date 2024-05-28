@@ -26,7 +26,7 @@ aquí, por favor, lee el resto antes.
 <p class="texto">Bueno, tú verás.</p>
 <br />
 <p class="texto">
-Por si todavía no lo has pillado, el día <span>28 de junio</span> voy a
+Por si todavía no lo has pillado, el día <span>29 de junio</span> voy a
 celebrar mi 29 cumpleaños. Si has recibido tu número de placa eres una de
 las personas invitadas.
 </p>
@@ -39,11 +39,11 @@ pasado las circunstancias no me dejaron hacer nada.
 La idea, ya que no habéis sido capaces de sacarme mi artículo de
 infiltrado en El salto, va a ser <span>hacer un Rol.</span> En función del
 resultado del juego y de vuestra destreza, el Estado (yo) cubrirá una
-parte mayor o menor de los costes.
+parte mayor o menor de los costes de la celebración.
 </p>
 <p class="texto">
 <br />
-Al inicio de la jornada del día 28 os daré todos los detalles e
+Al inicio de la jornada del día 29 os daré los detalles e
 instrucciones a tener en cuenta.
 </p>
 <br />

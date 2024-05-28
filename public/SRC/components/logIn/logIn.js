@@ -1,4 +1,5 @@
 import { placa } from '../../data/data'
+import { footer } from '../footer/footer'
 import { header } from '../header/header'
 import './logIn.css'
 
@@ -110,7 +111,7 @@ export const logIn = () => {
       alert('Intoduce un número correcto')
     }
 
-    console.log(placa)
+    footer()
   })
 
   document.body.append(divLogin)

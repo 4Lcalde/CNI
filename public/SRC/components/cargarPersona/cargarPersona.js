@@ -56,7 +56,11 @@ export const cargarPersona = (persona) => {
     divFotos.append(img)
   }
 
+  const p = document.createElement('p')
+  p.classList.add('texto', 'oculto')
+  p.textContent = 'Selecciona una imagen para resaltar'
+
   divImg.append(perfil)
   divInfo.append(divImg, divDatos)
-  container.append(divInfo, divFotos)
+  container.append(divInfo, p, divFotos)
 }
