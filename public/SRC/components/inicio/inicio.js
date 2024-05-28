@@ -39,7 +39,7 @@ export const inicio = (datosplaca) => {
   <br>
   <p class="texto">Cualquier información filtrada, o cualquier exceso en el tratamiento tendrá serias reprimendas sobre usted y sus seres queridos.</p>
   <br>
-  <p class="texto">Por favor, actúe con cautela y discrección. </p>`
+  <p class="texto ultimo">Por favor, actúe con cautela y discrección. </p>`
 
   section.append(uno, dos, tres)
   app.append(section)

@@ -57,7 +57,7 @@ export const investigacion = (datosplaca) => {
     </p>
     <br />
     <p class="texto">La seguridad del Estado está en tus manos.</p>
-    <p class="texto">Cuida esta información. Es totalmente confidencial.</p>
+    <p class="texto ultimo">Cuida esta información. Es totalmente confidencial.</p>
   `
 
   app.append(section)

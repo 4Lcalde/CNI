@@ -53,7 +53,7 @@ cantidades.
 </p>
 <br />
 <p class="texto">Muchas gracias por tu atención.</p>
-<p class="texto">Atte. Fernando Grande-MarlasKa.</p>`
+<p class="texto ultimo">Atte. Fernando Grande-MarlasKa.</p>`
 
   app.append(divExplicación)
 }
