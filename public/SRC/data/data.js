@@ -40,7 +40,7 @@ export const participantes = [
     alias: 'El leonés',
     Rol: 'Difusión interna de información.',
     ideologia: 'Autogestión y organización llionesa.',
-    aliados: 'aliados',
+    aliados: 'Cualquiera ',
     enemigos: 'La ausencia de sonido. Las plantas.',
     habilidades:
       'Ser duro como un minero y aparecer siempre que se le necesita.',
@@ -58,7 +58,8 @@ export const participantes = [
     alias: 'Sandalia caótica.',
     Rol: 'Suministradora de cultura popular de altísimo nivel.',
     ideologia: 'Anarquismo Patty&Shelmista.',
-    aliados: 'aliados',
+    aliados:
+      'Miseria, Chechenia y un puñado de prepubers hormonados a los que aporta conocimiento en clase. ',
     enemigos: 'Los dolores gastrointestinales.',
     habilidades:
       'Exquisito gusto artístico junto a excelentes dotes interpersonales.',
@@ -150,7 +151,8 @@ export const participantes = [
     alias: 'The lemon bukaner.',
     Rol: 'Eje moral del grupo.',
     ideologia: 'La casualidad.',
-    aliados: 'El Paco.',
+    aliados:
+      'El Paco. Los bukaneros que saludan. Las del pueblo hasta que llegaron Maronillerxs. ',
     enemigos: 'La poca previsión de cuantos van a ir. Los estantes de arriba. ',
     habilidades:
       'Poner orden. Quitarse los pendientes echando hostias si ve jaleo. ',
@@ -186,9 +188,9 @@ export const participantes = [
     nombre: 'Marisa',
     fotoPerfil: 'https://i.ibb.co/bJ9JFNW/Marisa.jpg',
     alias: 'Alias',
-    Rol: 'Propagandista',
+    Rol: 'Propagandista y CM.',
     ideologia: 'Flokismo buenista.',
-    aliados: 'La gente de Getafe. Qué Getafe, Qué gente',
+    aliados: 'La gente de Getafe. Qué Getafe, Qué gente.',
     enemigos: 'Quien cuestione el calendario de custodia compartida.',
     habilidades: 'Faltar al respeto indiscriminadamanete en convocatorias.',
     fotos: [
@@ -201,13 +203,13 @@ export const participantes = [
   {
     nombre: 'Marta',
     fotoPerfil: 'https://i.ibb.co/YjNXZ8Y/Marta.jpg',
-    alias: 'alias',
+    alias: 'La mataleones. ',
     Rol: 'Estabilizadora de meterse en jaleos.',
     ideologia: 'Racionalismo ácrata bondadoso.',
     aliados: 'Las primas. Los gatos. La gente buena.',
     enemigos: 'Las fechas y horas previamente avisadas y cerradas.',
     habilidades:
-      'Encontrar realidades alternativas de bondad innata. Involucrarse de corazón en cosas que le apasionan.',
+      'Encontrar realidades alternativas de bondad innata. Involucrarse de corazón en cosas que le apasionan.Estar fuertísima. ',
     fotos: [
       'https://i.ibb.co/rtwt9WS/MARTA1.jpg',
       'https://i.ibb.co/m5D7y7t/MARTA2.jpg',
@@ -265,10 +267,10 @@ export const participantes = [
     nombre: 'Paula',
     fotoPerfil: 'https://i.ibb.co/p39vvJy/Paula.jpg',
     alias: 'Bebé.',
-    Rol: 'Rol',
+    Rol: 'Dinamizadora de quedadas',
     ideologia: 'Flow to thousand.',
-    aliados: 'La bad Gyal',
-    enemigos: 'enemigos',
+    aliados: 'La bad Gyal, Hello Kitty y el brilli-brilli.',
+    enemigos: 'Las carpas de Vox en las fiestas populares. ',
     habilidades: 'Decir que sí a to plan que se le proponga por raro que sea.',
     fotos: [
       'https://i.ibb.co/6yvNF57/PAULA1.jpg',
@@ -281,11 +283,11 @@ export const participantes = [
   {
     nombre: 'Victoria',
     fotoPerfil: 'https://i.ibb.co/5B92RJR/victoria.jpg',
-    alias: 'La libertadora',
+    alias: 'La libertadora.',
     Rol: 'Vidente pitonisa.',
     ideologia: 'Antiimperialismo cosmopolita.',
-    aliados: 'aliados',
-    enemigos: 'El horoscopo.',
+    aliados: 'Las karaduras.',
+    enemigos: 'El horoscopo de Pronto.',
     habilidades: 'Las predicciones de aquí a tiempo X. Integrarse rapidísimo.',
     fotos: [
       'https://i.ibb.co/tMG1k9k/VICTORIA1.jpg',

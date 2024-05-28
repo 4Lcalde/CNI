@@ -20,12 +20,14 @@ Efectivamente, ${seguro}, esta es la invitación de mi cumpleaños.
 Si todavía no has visto los apartados anteriores y has venido directamente
 aquí, por favor, lee el resto antes.
 </p>
+<br />
 <p class="texto">Si sigues aquí sin ver el resto esto pierde la gracia.</p>
+<br />
 <p class="texto">Bueno, tú verás.</p>
 <br />
 <p class="texto">
 Por si todavía no lo has pillado, el día <span>28 de junio</span> voy a
-celebrar mi 29 cumpleaños. Si hás recibido tu número de placa eres una de
+celebrar mi 29 cumpleaños. Si has recibido tu número de placa eres una de
 las personas invitadas.
 </p>
 <p class="texto">
@@ -40,6 +42,7 @@ resultado del juego y de vuestra destreza, el Estado (yo) cubrirá una
 parte mayor o menor de los costes.
 </p>
 <p class="texto">
+<br />
 Al inicio de la jornada del día 28 os daré todos los detalles e
 instrucciones a tener en cuenta.
 </p>
