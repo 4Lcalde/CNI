@@ -1,7 +1,14 @@
 import { app, placa } from '../../data/data'
 import './investigacion.css'
 
-export const investigacion = () => {
+export const investigacion = (datosplaca) => {
+  let seguro = ''
+  if (datosplaca) {
+    seguro = datosplaca
+  } else {
+    seguro = localStorage.getItem('Placa')
+  }
+
   // Asegúrate de que 'app' esté definido en tu contexto
   if (typeof app === 'undefined') {
     console.error('El elemento "app" no está definido.')
@@ -17,7 +24,7 @@ export const investigacion = () => {
     <h2 class="subtitulo">Detalles de la investigación</h2>
     <br />
     <p class="texto">
-      ${placa.Nombre} ,durante las últimas semanas se han estado extendiendo los rumores por el
+      ${seguro} ,durante las últimas semanas se han estado extendiendo los rumores por el
       barrio de que los antifas de Carabanchel están tratando de llevar a cabo
       su acción más grande. Si bien es cierto que este grupúsculo de extrarradio
       lleva tiempo de capa caída nunca hay que menospreciar su capacidad de

@@ -3,7 +3,7 @@
 
   backdrop-filter: blur(10px);
   position: absolute;
-  height: 100%;
+
   padding: 20px;
 }
 
@@ -20,5 +20,5 @@
 }
 
 .texto > span {
-  color: black;
+  font-weight: 700;
 }

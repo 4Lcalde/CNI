@@ -3,10 +3,15 @@
 
   backdrop-filter: blur(10px);
   position: absolute;
-  height: 100%;
+
   padding: 20px;
 }
 
 .texto {
   font-size: 15px;
+}
+
+.texto > span {
+  font-weight: 700;
+  text-shadow: 5px;
 }

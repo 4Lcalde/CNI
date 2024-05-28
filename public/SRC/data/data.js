@@ -1,3 +1,4 @@
+import { explicacion } from '../components/explicacion/explicacion'
 import { inicio } from '../components/inicio/inicio'
 import { investigacion } from '../components/investigacion/investigacion'
 import { personajes } from '../components/personajes/personajes'
@@ -5,7 +6,8 @@ import { personajes } from '../components/personajes/personajes'
 export const listadoHeader = [
   { nombre: 'Inicio', funcion: inicio },
   { nombre: 'Personajes', funcion: personajes },
-  { nombre: 'Investigación', funcion: investigacion }
+  { nombre: 'Investigación', funcion: investigacion },
+  { nombre: 'Explicación', funcion: explicacion }
 ]
 
 export const placa = { Nombre: '', placa: 0 }
@@ -278,10 +280,10 @@ export const participantes = [
   },
   {
     nombre: 'Victoria',
-    fotoPerfil: './assets/PERFIL/Victoria.jpg',
+    fotoPerfil: 'https://i.ibb.co/5B92RJR/victoria.jpg',
     alias: 'La libertadora',
     Rol: 'Vidente pitonisa.',
-    ideologia: 'ideologia',
+    ideologia: 'Antiimperialismo cosmopolita.',
     aliados: 'aliados',
     enemigos: 'El horoscopo.',
     habilidades: 'Las predicciones de aquí a tiempo X. Integrarse rapidísimo.',

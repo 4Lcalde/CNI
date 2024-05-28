@@ -1,13 +1,21 @@
 import { app, placa } from '../../data/data'
 import './inicio.css'
 
-export const inicio = () => {
+export const inicio = (datosplaca) => {
+  const seguro = localStorage.getItem('Placa')
+  console.log(seguro)
   app.innerHTML = ''
   app.style.backgroundImage = 'none'
   const section = document.createElement('section')
   section.className = 'section-inicio'
   const uno = document.createElement('h2')
-  uno.textContent = `Un placer verte por aquí,  ${placa.Nombre}`
+
+  if (datosplaca) {
+    uno.textContent = `Un placer verte por aquí,  ${seguro}`
+  } else {
+    uno.textContent = `Un placer verte por aquí,  ${seguro}`
+  }
+
   uno.className = 'subtitulo'
   app.style.padding = '0'
 
@@ -16,7 +24,7 @@ export const inicio = () => {
   dos.textContent =
     'Eres una persona afortunada por formar parte de esta investigación.'
 
-  const tres = document.createElement('h3')
+  const tres = document.createElement('p')
   tres.className = 'texto'
   tres.innerHTML = `  <p class="texto">La cuestión es simple. Después de tantos años infiltrado en el barrio la investigación no da más de sí. </p>
   <br>

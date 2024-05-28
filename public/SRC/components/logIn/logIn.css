@@ -16,14 +16,29 @@
   gap: 10px;
 }
 
-input {
-  height: 50px;
-  padding: 10px;
-  border-radius: 0%;
+.Input {
+  background-color: #3068c9;
+  border: 1px solid rgb(255, 255, 255);
+}
+.Input::placeholder {
+  padding-left: 10px;
+  color: white; /* Cambia este color según tus necesidades */
+  opacity: 1; /* Para asegurarse de que el color sea completamente opaco */
 }
 
 .submit {
+  background-color: white;
+  color: #3068c9;
+  border: 2px solid #3068c9;
+  font-weight: 700;
   height: 50px;
-  width: auto;
+  width: 90px;
   text-transform: uppercase;
+  padding: 5px;
+}
+
+.submit:hover {
+  background-color: #3068c9;
+  border: 1px solid rgb(255, 255, 255);
+  color: white;
 }
