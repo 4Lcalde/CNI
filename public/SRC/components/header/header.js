@@ -5,7 +5,7 @@ export const header = (datosPlaca) => {
   const seguro = localStorage.getItem('Placa')
   console.log(seguro)
   app.style.backgroundImage =
-    'url(https://i.ibb.co/5jHRsfx/856bd2c4-5778-42bb-a5fa-00704effb760-16-9-discover-aspect-ratio-default-0.png)'
+    'url(https://i.ibb.co/Jz7Gp2x/17351860-una-carpeta-con-top-secret-estampado-en-la-parte-delantera-y-una-fotograf-a-en-blanco-recor.png)'
   const header = document.createElement('header')
   header.id = 'main-header'
   const logo = document.createElement('img')
@@ -21,9 +21,9 @@ export const header = (datosPlaca) => {
   nav.className = 'nav'
   const ulNav = document.createElement('ul')
   ulNav.className = 'ul-nav'
-  const toggle = document.createElement('img')
+  const toggle = document.createElement('a')
   toggle.classList.add('toggle', 'boton')
-  toggle.src = 'https://i.ibb.co/FWVRkGH/barra-svg.png'
+  toggle.textContent = 'MENÚ'
 
   toggle.addEventListener('click', () => {
     nav.classList.toggle('abierto')

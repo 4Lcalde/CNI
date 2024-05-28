@@ -30,11 +30,13 @@ Por si todavía no lo has pillado, el día <span>29 de junio</span> voy a
 celebrar mi 29 cumpleaños. Si has recibido tu número de placa eres una de
 las personas invitadas.
 </p>
+<br />
 <p class="texto">
 Todavía estoy por cerrar hora y sitio donde realizarlo, pero quiero que
 sea un día guay con mi gente, sobre todo, teniendo en cuenta que el año
 pasado las circunstancias no me dejaron hacer nada.
 </p>
+<br />
 <p class="texto">
 La idea, ya que no habéis sido capaces de sacarme mi artículo de
 infiltrado en El salto, va a ser <span>hacer un Rol.</span> En función del

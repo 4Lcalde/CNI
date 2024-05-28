@@ -7,3 +7,6 @@ footer {
   bottom: 0;
   z-index: 5;
 }
+footer p {
+  cursor: pointer;
+}

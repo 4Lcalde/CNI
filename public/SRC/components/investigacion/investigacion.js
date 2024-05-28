@@ -24,7 +24,7 @@ export const investigacion = (datosplaca) => {
     <h2 class="subtitulo">Detalles de la investigación</h2>
     <br />
     <p class="texto">
-      ${seguro} ,durante las últimas semanas se han extendido los rumores de que los antifas de Carabanchel están tratando de llevar a cabo su acción más grande. Si bien es cierto que este grupúsculo de extrarradio lleva tiempo de capa caída nunca hay que menospreciar su capacidad.
+      ${seguro},durante las últimas semanas se han extendido los rumores de que los antifas de Carabanchel están tratando de llevar a cabo su acción más grande. Si bien es cierto que este grupúsculo de extrarradio lleva tiempo de capa caída nunca hay que menospreciar su capacidad.
     </p>
     <br />
     <p class="texto">

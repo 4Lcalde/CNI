@@ -152,7 +152,7 @@ export const participantes = [
     Rol: 'Eje moral del grupo.',
     ideologia: 'La casualidad.',
     aliados:
-      'El Paco. Los bukaneros que saludan. Las del pueblo hasta que llegaron Maronillerxs. ',
+      'El Paco. Los bukaneros que saludan. Las del pueblo hasta que llegaron Maronillerxs a las fiestas. ',
     enemigos: 'La poca previsión de cuantos van a ir. Los estantes de arriba. ',
     habilidades:
       'Poner orden. Quitarse los pendientes echando hostias si ve jaleo. ',
@@ -187,10 +187,10 @@ export const participantes = [
   {
     nombre: 'Marisa',
     fotoPerfil: 'https://i.ibb.co/bJ9JFNW/Marisa.jpg',
-    alias: 'Alias',
+    alias: 'La ofensas.',
     Rol: 'Propagandista y CM.',
     ideologia: 'Flokismo buenista.',
-    aliados: 'La gente de Getafe. Qué Getafe, Qué gente.',
+    aliados: 'La gente de Getafe. Qué gente. Qué Getafe,',
     enemigos: 'Quien cuestione el calendario de custodia compartida.',
     habilidades: 'Faltar al respeto indiscriminadamanete en convocatorias.',
     fotos: [
@@ -251,7 +251,7 @@ export const participantes = [
     enemigos:
       'El rubencín y las previas de menos de 7 horas o la gente que quiere irse.',
     habilidades:
-      'Hacer que te quedes a la última. Hacer que nunca sepas qué emoción está mostrando. ',
+      'Hacer que te quedes a la última. Hacer que nunca sepas qué emoción está mostrando. Dar la mano a gente cagando. ',
     fotos: [
       'https://i.ibb.co/FD7d88h/PABLO1.jpg',
       'https://i.ibb.co/tX6V2vL/PABLO2.jpg',
@@ -304,7 +304,7 @@ export const participantes = [
     aliados: 'La subida del SMI. Le permite gastar más dinero.',
     enemigos:
       'Las cantidades de cosas objetiva y racionalmente suficientes para un propósito porque son pocas.',
-    habilidades: 'Sacar planes guapos de lugares inesperados.',
+    habilidades: 'Sacar planes guapos de lugares inesperados. Esperar a gente.',
     fotos: [
       'https://i.ibb.co/M8Rd7Ly/ZYME1.jpg',
       'https://i.ibb.co/JdwP0k7/ZYME2.jpg',
