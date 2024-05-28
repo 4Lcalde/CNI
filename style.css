@@ -34,9 +34,9 @@ a {
 
 #app {
   background-image: url(./assets/LOGO/APP.png);
-  height: 80svh;
-
+  height: 85svh;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
+  padding: 0px;
 }
