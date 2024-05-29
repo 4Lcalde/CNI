@@ -17,14 +17,14 @@ export const participantes = [
   {
     nombre: 'Beltrán',
     fotoPerfil: 'https://i.ibb.co/qn2QLbS/Beltr-n.jpg',
-    alias: 'El aviones.',
+    alias: 'El aviones. Ayatolá Escudero si lleva barba larga',
     rol: 'Comandante en jefe del Estado Mayor de Defensa de (v)KRBC.',
     ideologia: 'Acción directa.',
     aliados:
       'Los vallekanos. El cabeza, que estuvo dos años allí haciendo (Arte marcial).',
     enemigos: ' ̶ ̷E̷k̷o̷n̷t̷r̷o̷n̷a̷z̷o̷. Cualquiera que menosprecie a VK.',
     habilidades:
-      'Absolutamente todas. Estar siempre que hace falta para lo que sea.',
+      'Absolutamente todas. Juez de bebidas mitológicas. Estar siempre que hace falta para lo que sea.',
     fotos: [
       'https://i.ibb.co/x7XtkMp/BELTRAN1.jpg',
       'https://i.ibb.co/qMZ5Lxy/BELTRAN2.jpg',
@@ -43,7 +43,7 @@ export const participantes = [
     aliados: 'Cualquiera que le rente estar un rato agusto.  ',
     enemigos: 'La ausencia de sonido. Las plantas.',
     habilidades:
-      'Ser duro como un minero y aparecer siempre que se le necesita.',
+      'Ser duro como un minero. Aguante indefinido bajo el sol de festivales en Almería.',
     fotos: [
       'https://i.ibb.co/kQS5jY1/CAMPI1.jpg',
       'https://i.ibb.co/P1tGnzZ/CAMPI2.jpg',
@@ -62,7 +62,7 @@ export const participantes = [
       'Miseria, Chechenia y un puñado de prepubers hormonados a los que aporta conocimiento en clase. ',
     enemigos: 'Los dolores gastrointestinales.',
     habilidades:
-      'Exquisito gusto artístico junto a excelentes dotes interpersonales.',
+      'Exquisito gusto artístico junto a excelentes dotes interpersonales. Catadora de vinos.',
     fotos: [
       'https://i.ibb.co/DW9PYHc/CRIS1.jpg',
       'https://i.ibb.co/GsY0MHh/CRIS2.jpg',
@@ -192,7 +192,7 @@ export const participantes = [
     ideologia: 'Flokismo buenista.',
     aliados: 'La gente de Getafe. Qué gente. Qué Getafe,',
     enemigos: 'Quien cuestione el calendario de custodia compartida.',
-    habilidades: 'Faltar al respeto indiscriminadamanete en convocatorias.',
+    habilidades: 'Faltar al respeto indiscriminadamanete en convocatorias. Desayunar champiñones. Hacer memes.',
     fotos: [
       'https://i.ibb.co/yN3sN0K/MARISA1.jpg',
       'https://i.ibb.co/b3DwJ9n/MARISA2.jpg',
@@ -228,10 +228,10 @@ export const participantes = [
     alias: 'La serrana.',
     Rol: 'Relaciones diplomáticas interterritoriales.',
     ideologia: 'Anarquista pero anarquista bien no anarquista Eko.',
-    aliados: 'Meningitis y hepatitis. Sus puños. A quien no matan dejan tonto.',
+    aliados: 'Meningitis y hepatitis. Sus puños. A quien no matan le dejan tonto.',
     enemigos: 'Los niños de la mina cuando son más de tres juntos.',
     habilidades:
-      'Estar siempre en los momentos importantes y generar colegueo guay. ',
+      'Bailes reveros. Inmunidad a sonidos roncosos. ',
     fotos: [
       'https://i.ibb.co/XtnPmxv/MAYTE1.jpg',
       'https://i.ibb.co/Rgcw2D1/MAYTE2.jpg',
@@ -249,7 +249,7 @@ export const participantes = [
     ideologia: 'Centralismo idemocrático.',
     aliados: 'Los del otro cole. Tifus Crew.',
     enemigos:
-      'El rubencín y las previas de menos de 7 horas o la gente que quiere irse.',
+      'El rubencín y las previas de menos de 7 horas o la gente que no juega al mus de manera tradicional o le gana.',
     habilidades:
       'Hacer que te quedes a la última. Hacer que nunca sepas qué emoción está mostrando. Dar la mano a gente cagando. ',
     fotos: [
