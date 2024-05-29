@@ -190,7 +190,7 @@ export const participantes = [
     alias: 'La ofensas.',
     Rol: 'Propagandista y CM.',
     ideologia: 'Flokismo buenista.',
-    aliados: 'La gente de Getafe. Qué gente. Qué Getafe,',
+    aliados: 'La gente de Getafe. Qué gente. Qué Getafe.',
     enemigos: 'Quien cuestione el calendario de custodia compartida.',
     habilidades: 'Faltar al respeto indiscriminadamanete en convocatorias. Desayunar champiñones. Hacer memes.',
     fotos: [
