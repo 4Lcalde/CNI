@@ -287,8 +287,8 @@ export const participantes = [
     Rol: 'Vidente pitonisa.',
     ideologia: 'Antiimperialismo cosmopolita.',
     aliados: 'Las karaduras.',
-    enemigos: 'El horoscopo de Pronto.',
-    habilidades: 'Las predicciones de aquí a tiempo X. Integrarse rapidísimo.',
+    enemigos: 'El horoscopo de Pronto. Gente con gafas de sol aburridas',
+    habilidades: 'Las predicciones de aquí a tiempo X. Integrarse rapidísimo. Preparación de festejos.',
     fotos: [
       'https://i.ibb.co/tMG1k9k/VICTORIA1.jpg',
       'https://i.ibb.co/v43Qqz9/VICTORIA2.jpg',
