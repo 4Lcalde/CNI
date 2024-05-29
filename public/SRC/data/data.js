@@ -17,7 +17,7 @@ export const participantes = [
   {
     nombre: 'Beltrán',
     fotoPerfil: 'https://i.ibb.co/qn2QLbS/Beltr-n.jpg',
-    alias: 'El vallecano.',
+    alias: 'El aviones.',
     rol: 'Comandante en jefe del Estado Mayor de Defensa de (v)KRBC.',
     ideologia: 'Acción directa.',
     aliados:
