@@ -231,7 +231,7 @@ export const participantes = [
     aliados: 'Meningitis y hepatitis. Sus puños. A quien no matan le dejan tonto.',
     enemigos: 'Los niños de la mina cuando son más de tres juntos.',
     habilidades:
-      'Bailes reveros. Inmunidad a sonidos roncosos. ',
+      'Bailes raveros. Inmunidad a sonidos roncosos. ',
     fotos: [
       'https://i.ibb.co/XtnPmxv/MAYTE1.jpg',
       'https://i.ibb.co/Rgcw2D1/MAYTE2.jpg',
