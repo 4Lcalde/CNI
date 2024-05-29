@@ -304,7 +304,7 @@ export const participantes = [
     aliados: 'La subida del SMI. Le permite gastar más dinero.',
     enemigos:
       'Las cantidades de cosas objetiva y racionalmente suficientes para un propósito porque son pocas.',
-    habilidades: 'Sacar planes guapos de lugares inesperados. Esperar a gente.',
+    habilidades: 'El refuerzo positivo. Los juegos de palabras. Esperar a gente. El',
     fotos: [
       'https://i.ibb.co/M8Rd7Ly/ZYME1.jpg',
       'https://i.ibb.co/JdwP0k7/ZYME2.jpg',
