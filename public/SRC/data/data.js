@@ -37,7 +37,7 @@ export const participantes = [
   {
     nombre: 'Campi',
     fotoPerfil: 'https://i.ibb.co/0YmXkS0/Campi.jpg',
-    alias: 'El leonés',
+    alias: 'El leonés.',
     Rol: 'Difusión interna de información.',
     ideologia: 'Autogestión y organización llionesa.',
     aliados: 'Cualquiera que le rente estar un rato agusto.  ',
@@ -82,7 +82,7 @@ export const participantes = [
     enemigos:
       'Los pancarabancherelistas con ansias de expansión del distrito.  ',
     habilidades:
-      'Adaptabilidad a cualquier entorno y ambiente generando buen rollo. ',
+      'Adaptabilidad a cualquier entorno y ambiente generando buen rollo. Sobrevivir a Grow. ',
     fotos: [
       'https://i.ibb.co/1mhvCvT/ENOL1-copia.jpg',
       'https://i.ibb.co/VxwCcGz/ENOL2.jpg',
@@ -121,7 +121,7 @@ export const participantes = [
     ideologia: 'Marxismo-leninismo-flokismo.',
     aliados: 'Los gitanos y yonkis del cara. El glorioso camarada Stalin.',
     enemigos: 'Floki. Si no está 100% satisfecho castiga a Héctor sin salir.',
-    habilidades: 'Crear elementos de mediación y gestión de conflictos.',
+    habilidades: 'Crear elementos de mediación y gestión de conflictos. Hacer encuestas. ',
     fotos: [
       'https://i.ibb.co/ZLmjFx0/HECTOR1.jpg',
       'https://i.ibb.co/JvGGVMv/HECTOR2.jpg',
@@ -153,7 +153,7 @@ export const participantes = [
     ideologia: 'La casualidad.',
     aliados:
       'El Paco. Los bukaneros que saludan. Las del pueblo hasta que llegaron Maronillerxs a las fiestas. ',
-    enemigos: 'La poca previsión de cuantos van a ir. Los estantes de arriba. ',
+    enemigos: 'La poca previsión de cuantos van a ir a cenar. Los estantes de arriba. ',
     habilidades:
       'Poner orden. Quitarse los pendientes echando hostias si ve jaleo. ',
     fotos: [
@@ -227,7 +227,7 @@ export const participantes = [
     fotoPerfil: 'https://i.ibb.co/bsgPBP5/Mayte.jpg',
     alias: 'La serrana.',
     Rol: 'Relaciones diplomáticas interterritoriales.',
-    ideologia: 'Anarquista pero anarquista bien no anarquista Eko.',
+    ideologia: 'Anarquista, pero anarquista bien no anarquista Eko.',
     aliados: 'Meningitis y hepatitis. Sus puños. A quien no matan le dejan tonto.',
     enemigos: 'Los niños de la mina cuando son más de tres juntos.',
     habilidades:
@@ -249,7 +249,7 @@ export const participantes = [
     ideologia: 'Centralismo idemocrático.',
     aliados: 'Los del otro cole. Tifus Crew.',
     enemigos:
-      'El rubencín y las previas de menos de 7 horas o la gente que no juega al mus de manera tradicional o le gana.',
+      'El rubencín y las previas de menos de 7 horas. La gente que no juega al mus de manera ortodoxa o le gana.',
     habilidades:
       'Hacer que te quedes a la última. Hacer que nunca sepas qué emoción está mostrando. Dar la mano a gente cagando. ',
     fotos: [
@@ -267,7 +267,7 @@ export const participantes = [
     nombre: 'Paula',
     fotoPerfil: 'https://i.ibb.co/p39vvJy/Paula.jpg',
     alias: 'Bebé.',
-    Rol: 'Dinamizadora de quedadas',
+    Rol: 'Dinamizadora de quedadas.',
     ideologia: 'Flow to thousand.',
     aliados: 'La bad Gyal, Hello Kitty y el brilli-brilli.',
     enemigos: 'Las carpas de Vox en las fiestas populares. ',
@@ -304,7 +304,7 @@ export const participantes = [
     aliados: 'La subida del SMI. Le permite gastar más dinero.',
     enemigos:
       'Las cantidades de cosas objetiva y racionalmente suficientes para un propósito porque son pocas.',
-    habilidades: 'El refuerzo positivo. Los juegos de palabras. Esperar a gente. El',
+    habilidades: 'El refuerzo positivo. Los juegos de palabras. Esperar a gente.',
     fotos: [
       'https://i.ibb.co/M8Rd7Ly/ZYME1.jpg',
       'https://i.ibb.co/JdwP0k7/ZYME2.jpg',
