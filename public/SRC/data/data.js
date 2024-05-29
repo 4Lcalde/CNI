@@ -17,7 +17,7 @@ export const participantes = [
   {
     nombre: 'Beltrán',
     fotoPerfil: 'https://i.ibb.co/qn2QLbS/Beltr-n.jpg',
-    alias: 'El aviones. Ayatolá Escudero si lleva barba larga',
+    alias: 'El aviones. Ayatolá Escudero si lleva barba larga.',
     rol: 'Comandante en jefe del Estado Mayor de Defensa de (v)KRBC.',
     ideologia: 'Acción directa.',
     aliados:
